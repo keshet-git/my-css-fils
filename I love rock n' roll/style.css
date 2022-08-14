@@ -1,0 +1,18 @@
+body{
+  background-color: black;
+}
+
+h1{
+  color: #d04895;
+  font-family: "Edu TAS Beginner","consolas", sans-serif;
+  font-style: italic;
+  font-weight: 700;
+  text-decoration: chartreuse dotted underline;
+  font-size: 70px;
+}
+
+p{
+  color: #b06bd0;
+  font-family: "Edu TAS Beginner","consolas", sans-serif;
+  font-size: 22px;
+}
