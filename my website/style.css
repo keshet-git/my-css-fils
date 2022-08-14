@@ -1,0 +1,17 @@
+body{
+  background-image: url("v.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+h1{
+  background: linear-gradient(to right, skyblue, rgb(240, 240, 240));
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+p{
+  background: linear-gradient(to left, skyblue, rgb(240,240, 240));
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
