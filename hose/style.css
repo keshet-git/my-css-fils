@@ -1,0 +1,17 @@
+
+body{
+  background-color: blue;
+}
+h1{
+    color: white;
+}
+p{
+   background-color: black;
+   font-size: 14px; 
+}
+.odd{
+  color: rgb(85, 226, 191);
+}
+.even{
+  color: pink;
+}
